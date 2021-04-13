@@ -2,7 +2,7 @@
 
  My name is Damian and I am Front End Developer from Cracow.
  
- 🦸‍ I will create an amazing website for you. <br>
+ 🎯   I will create an amazing website for you. <br>
  🌱   I’m currently learning Ruby on Rails. <br>
  📫   How to reach me: damianpllatek@gmail.com <br>
 <!--
