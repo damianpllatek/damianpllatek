@@ -1,11 +1,11 @@
 ### Hi there 👋
 
  My name is Damian and I am Front End Developer from Cracow.
- <li>
-  <ol>🎯   I will create an amazing website for you.</ol>
-  <ol>🌱   I’m currently learning Ruby on Rails.</ol>
-  <ol>📫   How to reach me: damianpllatek@gmail.com </ol>
- </li>
+ <ol>
+  <li>🎯   I will create an amazing website for you.</li>
+  <li>🌱   I’m currently learning Ruby on Rails.</li>
+  <li>📫   How to reach me: damianpllatek@gmail.com </li>
+ </ol>
 <!--
 **damianpllatek/damianpllatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
