@@ -3,6 +3,7 @@
  My name is Damian and I am Junior Ruby on Rails Developer from Cracow.
  <ul>
   <li>🌱   I’m currently learning Ruby on Rails.</li>
+ <li>🔭   I have Front-End skills.</li>
   <li>🎯   I will create an amazing website for you.</li>
   <li>📫   How to reach me: damianpllatek@gmail.com </li>
  </ul>
